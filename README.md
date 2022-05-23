@@ -197,4 +197,9 @@ NEGATION OPERATOR
 h(?!t)       matches a h only if is not followed by t, but t will not be part of the match
 (?<!t)h      matches a h only if is not preceded by an t, but t will not be part of the match
 
-```
+## Author
+Drusti patel is a Junior Developer towards the end of his coding bootcamp through Georgia Tech
+
+Feel free to check out the GitHub repo for all the previous projects
+
+[GitHub Profile](https://github.com/dpatel615)
